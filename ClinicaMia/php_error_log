@@ -1,0 +1,1082 @@
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[09-Apr-2023 01:18:43 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 39
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP   4. expediente->get($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP   5. ExpedienteModels->get($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:26
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 39
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP   4. expediente->get($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 01:18:47 Europe/Berlin] PHP   5. ExpedienteModels->get($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:26
+[09-Apr-2023 01:20:09 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 262
+[09-Apr-2023 01:20:09 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 01:20:09 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 01:20:09 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 01:20:09 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 01:20:09 Europe/Berlin] PHP   4. expediente->update() C:\xampp\htdocs\ClinicaMia\routes\routes.php:64
+[09-Apr-2023 01:20:09 Europe/Berlin] PHP   5. ExpedienteModels->update($objeto = class stdClass { public $domicilio = 'Puerto Viejo, Limón.'; public $fechaNac = '1987-11-14T06:00:00.000Z'; public $telefono = '55889965'; public $idTipoSangre = '3'; public $idUsuario = '17'; public $alergias = [0 => '4', 1 => '3']; public $medicamentos = [0 => '4', 1 => '3']; public $enfermedades = [0 => '3']; public $cirugia = [0 => class stdClass { ... }] }) C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:113
+[09-Apr-2023 01:20:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[09-Apr-2023 01:20:16 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 01:20:16 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 01:20:16 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 01:20:16 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 01:20:16 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[09-Apr-2023 01:20:16 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[09-Apr-2023 01:20:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[09-Apr-2023 01:20:17 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 01:20:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 01:20:17 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 01:20:17 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 01:20:17 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[09-Apr-2023 01:20:17 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 39
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP   4. expediente->get($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP   5. ExpedienteModels->get($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:26
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 39
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP   4. expediente->get($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 01:20:31 Europe/Berlin] PHP   5. ExpedienteModels->get($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:26
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP   4. consultorio->get($id = '14') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '14') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP   4. consultorio->get($id = '14') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:11:18 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '14') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:11:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:11:22 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:11:22 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:11:22 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:11:22 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:11:22 Europe/Berlin] PHP   4. consultorio->get($id = '14') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:11:22 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '14') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:11:23 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:11:23 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:11:23 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:11:23 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:11:23 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:11:23 Europe/Berlin] PHP   4. consultorio->get($id = '14') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:11:23 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '14') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP   4. consultorio->get($id = '14') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '14') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP   4. consultorio->get($id = '14') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:12:17 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '14') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP   4. consultorio->get($id = '19') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '19') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP   4. consultorio->get($id = '19') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:13:18 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '19') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:13:53 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:13:53 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:13:53 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:13:53 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:13:53 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:13:53 Europe/Berlin] PHP   4. consultorio->get($id = '19') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:13:53 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '19') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:13:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:13:54 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:13:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:13:54 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:13:54 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:13:54 Europe/Berlin] PHP   4. consultorio->get($id = '19') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:13:54 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '19') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP   4. consultorio->get($id = '19') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '19') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 68
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP   4. consultorio->get($id = '19') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[09-Apr-2023 03:17:58 Europe/Berlin] PHP   5. ConsultorioModels->get($id = '19') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:26
+[09-Apr-2023 03:28:46 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 231
+[09-Apr-2023 03:28:46 Europe/Berlin] PHP Stack trace:
+[09-Apr-2023 03:28:46 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[09-Apr-2023 03:28:46 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[09-Apr-2023 03:28:46 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[09-Apr-2023 03:28:46 Europe/Berlin] PHP   4. cita->getCitaInfo($id = '19') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[09-Apr-2023 03:28:46 Europe/Berlin] PHP   5. CitaModels->getCitaInfo($id = '19') C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:254
+[10-Apr-2023 00:24:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:24:29 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:24:29 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:24:29 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:24:29 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:24:29 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:24:29 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:24:30 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:24:30 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:24:30 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:24:30 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:24:30 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:24:30 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:24:30 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:24:38 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:24:40 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:24:40 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:24:40 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:24:40 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:24:40 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:24:40 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:24:40 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:24:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:24:41 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:24:41 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:24:41 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:24:41 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:24:41 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:24:41 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:24:48 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:25:19 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:27:59 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:27:59 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:27:59 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:27:59 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:27:59 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:27:59 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:27:59 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:28:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:28:00 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:28:00 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:28:00 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:28:00 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:28:00 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:28:00 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:28:40 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 262
+[10-Apr-2023 00:28:40 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:28:40 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:28:40 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:28:40 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:28:40 Europe/Berlin] PHP   4. expediente->update() C:\xampp\htdocs\ClinicaMia\routes\routes.php:64
+[10-Apr-2023 00:28:40 Europe/Berlin] PHP   5. ExpedienteModels->update($objeto = class stdClass { public $domicilio = 'Alajuela. 150 mts de la clinica.'; public $fechaNac = '2005-11-12T06:00:00.000Z'; public $telefono = '65434576'; public $idTipoSangre = '4'; public $idUsuario = '17'; public $alergias = [0 => '4', 1 => '3']; public $medicamentos = [0 => '4', 1 => '3']; public $enfermedades = [0 => '4']; public $cirugia = [0 => class stdClass { ... }] }) C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:113
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:28:55 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:31:01 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:32:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:32:04 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:32:04 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:32:04 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:32:04 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:32:04 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:32:04 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:35:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:35:19 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:35:19 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:35:19 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:35:19 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:35:19 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:35:19 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 00:35:26 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 00:35:56 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 262
+[10-Apr-2023 00:35:56 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 00:35:56 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 00:35:56 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 00:35:56 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 00:35:56 Europe/Berlin] PHP   4. expediente->update() C:\xampp\htdocs\ClinicaMia\routes\routes.php:64
+[10-Apr-2023 00:35:56 Europe/Berlin] PHP   5. ExpedienteModels->update($objeto = class stdClass { public $domicilio = 'Ciruelas, Alajuela'; public $fechaNac = '2005-05-12T06:00:00.000Z'; public $telefono = '87654321'; public $idTipoSangre = '3'; public $idUsuario = '17'; public $alergias = [0 => '3', 1 => '2']; public $medicamentos = [0 => '4', 1 => '2']; public $enfermedades = [0 => '4', 1 => '3']; public $cirugia = [0 => class stdClass { ... }] }) C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:113
+[10-Apr-2023 01:02:37 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:02:37 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:02:37 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:02:37 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:02:37 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:02:37 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:02:37 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:02:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:02:38 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:02:38 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:02:38 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:02:38 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:02:38 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:02:38 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:03:10 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 262
+[10-Apr-2023 01:03:10 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:03:10 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:03:10 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:03:10 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:03:10 Europe/Berlin] PHP   4. expediente->update() C:\xampp\htdocs\ClinicaMia\routes\routes.php:64
+[10-Apr-2023 01:03:10 Europe/Berlin] PHP   5. ExpedienteModels->update($objeto = class stdClass { public $domicilio = 'Heredia. 150 mts de la clinica central'; public $fechaNac = '2001-02-12T06:00:00.000Z'; public $telefono = '77777777'; public $idTipoSangre = '3'; public $idUsuario = '17'; public $alergias = [0 => '4', 1 => '3']; public $medicamentos = [0 => '4']; public $enfermedades = [0 => '4']; public $cirugia = [0 => class stdClass { ... }] }) C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:113
+[10-Apr-2023 01:04:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:04:00 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:04:00 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:04:00 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:04:00 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:04:00 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:04:00 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:12:56 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:13:39 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 262
+[10-Apr-2023 01:13:39 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:13:39 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:13:39 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:13:39 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:13:39 Europe/Berlin] PHP   4. expediente->update() C:\xampp\htdocs\ClinicaMia\routes\routes.php:64
+[10-Apr-2023 01:13:39 Europe/Berlin] PHP   5. ExpedienteModels->update($objeto = class stdClass { public $domicilio = 'Heredia. 150 mts de la clinica.'; public $fechaNac = '2002-02-12T06:00:00.000Z'; public $telefono = '78789780'; public $idTipoSangre = '3'; public $idUsuario = '17'; public $alergias = [0 => '4', 1 => '3']; public $medicamentos = [0 => '4']; public $enfermedades = [0 => '4']; public $cirugia = [0 => class stdClass { ... }] }) C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:113
+[10-Apr-2023 01:13:48 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:13:48 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:13:48 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:13:48 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:13:48 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:13:48 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:13:48 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:15:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:15:54 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:15:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:15:54 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:15:54 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:15:54 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:15:54 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:17:49 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:18:08 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:18:09 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:35:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:35:16 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:35:16 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:35:16 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:35:16 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:35:16 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:35:16 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:35:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:35:17 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:35:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:35:17 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:35:17 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:35:17 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:35:17 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:42:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:42:58 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:42:58 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:42:58 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:42:58 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:42:58 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:42:58 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:42:59 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:42:59 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:42:59 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:42:59 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:42:59 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:42:59 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:42:59 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:45:49 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:45:49 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:45:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:45:49 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:45:49 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:45:49 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:45:49 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:45:50 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:45:50 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:45:50 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:45:50 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:45:50 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:45:50 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:45:50 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:46:39 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:46:39 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:46:39 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:46:39 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:46:39 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:46:39 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:46:39 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:46:40 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:46:40 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:46:40 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:46:40 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:46:40 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:46:40 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:46:40 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:47:04 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:54:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:54:14 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:54:14 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:54:14 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:54:14 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:54:14 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:54:14 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 01:54:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 01:54:15 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 01:54:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 01:54:15 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 01:54:15 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 01:54:15 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 01:54:15 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 02:58:14 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:00:51 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:00:51 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:00:51 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:00:51 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:00:51 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:00:51 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:00:51 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:00:52 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:00:52 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:00:52 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:00:52 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:00:52 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:00:52 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:00:52 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:01:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:01:25 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:01:25 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:01:25 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:01:25 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:01:25 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:01:25 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:01:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:01:26 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:01:26 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:01:26 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:01:26 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:01:26 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:01:26 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:34:47 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:34:47 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:34:47 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:34:47 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:34:47 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:34:47 Europe/Berlin] PHP   4. expediente->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:34:47 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:41:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:41:14 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:41:14 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:41:14 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:41:14 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:41:14 Europe/Berlin] PHP   4. expediente->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:41:14 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:41:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:41:15 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:41:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:41:15 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:41:15 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:41:15 Europe/Berlin] PHP   4. expediente->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:41:15 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP   4. expediente->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP   4. expediente->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:41:18 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:41:40 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:41:40 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:41:40 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:41:40 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:41:40 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:41:40 Europe/Berlin] PHP   4. expediente->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:41:40 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 03:41:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 03:41:41 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 03:41:41 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 03:41:41 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 03:41:41 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 03:41:41 Europe/Berlin] PHP   4. expediente->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 03:41:41 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 05:57:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 05:57:29 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 05:57:29 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 05:57:29 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 05:57:29 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 05:57:29 Europe/Berlin] PHP   4. expediente->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 05:57:29 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 05:57:30 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 05:57:30 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 05:57:30 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 05:57:30 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 05:57:30 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 05:57:30 Europe/Berlin] PHP   4. expediente->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 05:57:30 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 06:45:25 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 146
+[10-Apr-2023 06:45:25 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 06:45:25 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 06:45:25 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 06:45:25 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 06:45:25 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[10-Apr-2023 06:45:25 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '14'; public $nombre = 'Cita - Consultorio Oftamología'; public $fecha = '2023-04-10'; public $hora = '12:00:00'; public $estado = 'D'; public $idConsultorio = '7'; public $consultorio = 'Consultorio de Oftamología'; public $precio = '34000.00'; public $ubicacion = 'Alajuela Centro'; public $idUsuario = '18' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[10-Apr-2023 06:45:35 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 146
+[10-Apr-2023 06:45:35 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 06:45:35 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 06:45:35 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 06:45:35 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 06:45:35 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[10-Apr-2023 06:45:35 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '13'; public $nombre = 'Cita- Consulta de Psiquiatría'; public $fecha = '2023-04-10'; public $hora = '10:30:00'; public $estado = 'D'; public $idConsultorio = '8'; public $consultorio = 'Consultorio de Psiquiatría'; public $precio = '47000.00'; public $ubicacion = 'Alajuela Centro'; public $idUsuario = '18' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[10-Apr-2023 09:37:22 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$fecha in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 364
+[10-Apr-2023 09:37:22 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 09:37:22 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 09:37:22 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 09:37:22 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 09:37:22 Europe/Berlin] PHP   4. expediente->enviarExpe() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[10-Apr-2023 09:37:22 Europe/Berlin] PHP   5. ExpedienteModels->enviarExpe($objeto = class stdClass { public $id = '7'; public $idUsuario = '17'; public $nombre = 'Manon'; public $apellidos = 'Blackbeak'; public $cedula = '802580369'; public $correo = 'manonBla@gmail.com'; public $genero = 'Femenino'; public $tipoSangre = 'O'; public $fechaNac = '1980-02-01'; public $domicilio = 'Terresan. '; public $alergias = [0 => class stdClass { ... }]; public $medicamentos = [0 => class stdClass { ... }]; public $enfermedades = []; public $cirugia = [0 => class stdClass { ... }] }) C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:135
+[10-Apr-2023 09:38:25 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$fecha in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 364
+[10-Apr-2023 09:38:25 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 09:38:25 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 09:38:25 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:50
+[10-Apr-2023 09:38:25 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 09:38:25 Europe/Berlin] PHP   4. expediente->enviarExpe() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[10-Apr-2023 09:38:25 Europe/Berlin] PHP   5. ExpedienteModels->enviarExpe($objeto = class stdClass { public $id = '7'; public $idUsuario = '17'; public $nombre = 'Manon'; public $apellidos = 'Blackbeak'; public $cedula = '802580369'; public $correo = 'manonBla@gmail.com'; public $genero = 'Femenino'; public $tipoSangre = 'O'; public $fechaNac = '1980-02-01'; public $domicilio = 'Terresan. '; public $alergias = [0 => class stdClass { ... }]; public $medicamentos = [0 => class stdClass { ... }]; public $enfermedades = []; public $cirugia = [0 => class stdClass { ... }] }) C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:135
+[10-Apr-2023 09:58:00 Europe/Berlin] PHP Warning:  require_once(models/CompartirModels.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\ClinicaMia\index.php on line 26
+[10-Apr-2023 09:58:00 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 09:58:00 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 09:58:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'models/CompartirModels.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ClinicaMia\index.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ClinicaMia\index.php on line 26
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP Warning:  Attempt to read property "idUsuario" on string in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 380
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   4. expediente->getExpeCompartidos($objecto = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   5. ExpedienteModels->getExpeCompartidos($objeto = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:156
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP Warning:  Attempt to read property "num_rows" on bool in C:\xampp\htdocs\ClinicaMia\models\MySqlConnect.php on line 41
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   4. expediente->getExpeCompartidos($objecto = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   5. ExpedienteModels->getExpeCompartidos($objeto = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:156
+[10-Apr-2023 09:58:27 Europe/Berlin] PHP   6. MySqlConnect->executeSQL($sql = 'CALL mostrarExpeCompar(\'\');', $resultType = *uninitialized*) C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php:383
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP   4. expediente->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP   4. expediente->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[10-Apr-2023 11:58:42 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 39
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP   4. expediente->get($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP   5. ExpedienteModels->get($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:26
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 39
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP Stack trace:
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP   4. expediente->get($id = 'null') C:\xampp\htdocs\ClinicaMia\routes\routes.php:50
+[10-Apr-2023 11:58:45 Europe/Berlin] PHP   5. ExpedienteModels->get($id = 'null') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:26
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP Warning:  Attempt to read property "num_rows" on bool in C:\xampp\htdocs\ClinicaMia\models\MySqlConnect.php on line 41
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP Stack trace:
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   4. expediente->getExpeCompartidos($id = 'undefined') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   5. ExpedienteModels->getExpeCompartidos($id = 'undefined') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:156
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   6. MySqlConnect->executeSQL($sql = 'CALL mostrarExpeCompar(\'undefined\');', $resultType = *uninitialized*) C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php:383
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP Warning:  Attempt to read property "num_rows" on bool in C:\xampp\htdocs\ClinicaMia\models\MySqlConnect.php on line 41
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP Stack trace:
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   4. expediente->getExpeCompartidos($id = 'undefined') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   5. ExpedienteModels->getExpeCompartidos($id = 'undefined') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:156
+[11-Apr-2023 09:52:48 Europe/Berlin] PHP   6. MySqlConnect->executeSQL($sql = 'CALL mostrarExpeCompar(\'undefined\');', $resultType = *uninitialized*) C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php:383
+[12-Apr-2023 04:10:56 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 155
+[12-Apr-2023 04:10:56 Europe/Berlin] PHP Stack trace:
+[12-Apr-2023 04:10:56 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[12-Apr-2023 04:10:56 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[12-Apr-2023 04:10:56 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[12-Apr-2023 04:10:56 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[12-Apr-2023 04:10:56 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '26'; public $nombre = 'Cita Revisión'; public $fecha = '2023-04-12'; public $hora = '15:30:00'; public $estado = 'D'; public $idConsultorio = '7'; public $consultorio = 'Consultorio de Oftamología'; public $precio = '34000.00'; public $ubicacion = 'Alajuela Centro'; public $idUsuario = '4' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP Warning:  Attempt to read property "id" on array in C:\xampp\htdocs\ClinicaMia\controllers\UsuarioControllers.php on line 168
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP Stack trace:
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   4. usuario->login() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP Warning:  Attempt to read property "correo" on array in C:\xampp\htdocs\ClinicaMia\controllers\UsuarioControllers.php on line 169
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP Stack trace:
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   4. usuario->login() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP Warning:  Attempt to read property "idExpediente" on array in C:\xampp\htdocs\ClinicaMia\controllers\UsuarioControllers.php on line 170
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP Stack trace:
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   4. usuario->login() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP Warning:  Attempt to read property "rol" on array in C:\xampp\htdocs\ClinicaMia\controllers\UsuarioControllers.php on line 171
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP Stack trace:
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[12-Apr-2023 20:46:55 Europe/Berlin] PHP   4. usuario->login() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[12-Apr-2023 20:50:57 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$idExpediente in C:\xampp\htdocs\ClinicaMia\controllers\UsuarioControllers.php on line 170
+[12-Apr-2023 20:50:57 Europe/Berlin] PHP Stack trace:
+[12-Apr-2023 20:50:57 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[12-Apr-2023 20:50:57 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[12-Apr-2023 20:50:57 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[12-Apr-2023 20:50:57 Europe/Berlin] PHP   4. usuario->login() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[13-Apr-2023 09:32:25 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 155
+[13-Apr-2023 09:32:25 Europe/Berlin] PHP Stack trace:
+[13-Apr-2023 09:32:25 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[13-Apr-2023 09:32:25 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[13-Apr-2023 09:32:25 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[13-Apr-2023 09:32:25 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[13-Apr-2023 09:32:25 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '9'; public $nombre = 'Cita Prueba de Sangre'; public $fecha = '2023-04-13'; public $hora = '22:00:00'; public $estado = 'D'; public $idConsultorio = '1'; public $consultorio = 'Consultorio de Medicina General'; public $precio = '39000.00'; public $ubicacion = 'San José'; public $idUsuario = '1' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[13-Apr-2023 10:14:49 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 155
+[13-Apr-2023 10:14:49 Europe/Berlin] PHP Stack trace:
+[13-Apr-2023 10:14:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[13-Apr-2023 10:14:49 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[13-Apr-2023 10:14:49 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[13-Apr-2023 10:14:49 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[13-Apr-2023 10:14:49 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '1'; public $nombre = 'Cita de análisis'; public $fecha = '2023-04-14'; public $hora = '13:00:00'; public $estado = 'D'; public $idConsultorio = '1'; public $consultorio = 'Consultorio de Medicina General'; public $precio = '39000.00'; public $ubicacion = 'San José'; public $idUsuario = '10' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[17-Apr-2023 02:45:47 Europe/Berlin] PHP Notice:  require_once(): Read of 4096 bytes failed with errno=9 Bad file descriptor in C:\xampp\htdocs\ClinicaMia\index.php on line 41
+[17-Apr-2023 02:45:47 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 02:45:47 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 02:45:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ClinicaMia\index.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ClinicaMia\index.php on line 41
+[17-Apr-2023 03:12:34 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$idExpediente in C:\xampp\htdocs\ClinicaMia\controllers\UsuarioControllers.php on line 170
+[17-Apr-2023 03:12:34 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 03:12:34 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 03:12:34 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 03:12:34 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 03:12:34 Europe/Berlin] PHP   4. usuario->login() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[17-Apr-2023 03:24:55 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$idExpediente in C:\xampp\htdocs\ClinicaMia\controllers\UsuarioControllers.php on line 170
+[17-Apr-2023 03:24:55 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 03:24:55 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 03:24:55 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 03:24:55 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 03:24:55 Europe/Berlin] PHP   4. usuario->login() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[17-Apr-2023 03:26:19 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$idExpediente in C:\xampp\htdocs\ClinicaMia\controllers\UsuarioControllers.php on line 170
+[17-Apr-2023 03:26:19 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 03:26:19 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 03:26:19 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 03:26:19 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 03:26:19 Europe/Berlin] PHP   4. usuario->login() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[17-Apr-2023 04:27:59 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 155
+[17-Apr-2023 04:27:59 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 04:27:59 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 04:27:59 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 04:27:59 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 04:27:59 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[17-Apr-2023 04:27:59 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '15'; public $nombre = 'Cita Analisis COVID'; public $fecha = '2023-04-17'; public $hora = '12:00:00'; public $estado = 'D'; public $idConsultorio = '1'; public $consultorio = 'Consultorio de Medicina General'; public $precio = '39000.00'; public $ubicacion = 'San José'; public $idUsuario = '1' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[17-Apr-2023 04:29:43 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 155
+[17-Apr-2023 04:29:43 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 04:29:43 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 04:29:43 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 04:29:43 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 04:29:43 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[17-Apr-2023 04:29:43 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '14'; public $nombre = 'Cita Prueba de Sangre'; public $fecha = '2023-04-16'; public $hora = '10:00:00'; public $estado = 'D'; public $idConsultorio = '1'; public $consultorio = 'Consultorio de Medicina General'; public $precio = '39000.00'; public $ubicacion = 'San José'; public $idUsuario = '1' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[17-Apr-2023 05:03:12 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:03:12 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:03:12 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:03:12 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:03:12 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:03:12 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:03:12 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:03:13 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:03:13 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:03:13 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:03:13 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:03:13 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:03:13 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:03:13 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:03:46 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 155
+[17-Apr-2023 05:03:46 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:03:46 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:03:46 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:03:46 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:03:46 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[17-Apr-2023 05:03:46 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '13'; public $nombre = 'Cita Prueba Sangre'; public $fecha = '2023-04-16'; public $hora = '12:00:00'; public $estado = 'D'; public $idConsultorio = '3'; public $consultorio = 'Consultorio de Oftamología'; public $precio = '35000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '12' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[17-Apr-2023 05:04:37 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:04:37 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:04:37 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:04:37 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:04:37 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:04:37 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:04:37 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:04:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:04:38 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:04:38 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:04:38 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:04:38 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:04:38 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:04:38 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:04:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:04:56 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:04:56 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:04:56 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:04:56 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:04:56 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:04:56 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:04:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:04:57 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:04:57 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:04:57 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:04:57 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:04:57 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:04:57 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:07:24 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:07:24 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:07:24 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:07:24 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:07:24 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:07:24 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:07:24 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:07:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:07:25 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:07:25 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:07:25 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:07:25 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:07:25 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:07:25 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:07:30 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP   4. expediente->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 05:07:33 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '12') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[17-Apr-2023 06:47:40 Europe/Berlin] PHP Warning:  Attempt to read property "num_rows" on bool in C:\xampp\htdocs\ClinicaMia\models\MySqlConnect.php on line 41
+[17-Apr-2023 06:47:40 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 06:47:40 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 06:47:40 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 06:47:40 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 06:47:40 Europe/Berlin] PHP   4. expediente->getExpeCompartidos($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 06:47:40 Europe/Berlin] PHP   5. ExpedienteModels->getExpeCompartidos($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:156
+[17-Apr-2023 06:47:40 Europe/Berlin] PHP   6. MySqlConnect->executeSQL($sql = 'CALL mostrarExpeCompar(\'17\');', $resultType = *uninitialized*) C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php:383
+[17-Apr-2023 06:47:41 Europe/Berlin] PHP Warning:  Attempt to read property "num_rows" on bool in C:\xampp\htdocs\ClinicaMia\models\MySqlConnect.php on line 41
+[17-Apr-2023 06:47:41 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 06:47:41 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 06:47:41 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 06:47:41 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 06:47:41 Europe/Berlin] PHP   4. expediente->getExpeCompartidos($id = '17') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[17-Apr-2023 06:47:41 Europe/Berlin] PHP   5. ExpedienteModels->getExpeCompartidos($id = '17') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:156
+[17-Apr-2023 06:47:41 Europe/Berlin] PHP   6. MySqlConnect->executeSQL($sql = 'CALL mostrarExpeCompar(\'17\');', $resultType = *uninitialized*) C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php:383
+[17-Apr-2023 06:57:01 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 155
+[17-Apr-2023 06:57:01 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 06:57:01 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 06:57:01 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 06:57:01 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 06:57:01 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[17-Apr-2023 06:57:01 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '10'; public $nombre = 'Cita Revisión'; public $fecha = '2023-04-16'; public $hora = '21:00:00'; public $estado = 'D'; public $idConsultorio = '2'; public $consultorio = 'Consulto de Psicología'; public $precio = '46000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '12' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[17-Apr-2023 07:30:08 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 155
+[17-Apr-2023 07:30:08 Europe/Berlin] PHP Stack trace:
+[17-Apr-2023 07:30:08 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[17-Apr-2023 07:30:08 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[17-Apr-2023 07:30:08 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[17-Apr-2023 07:30:08 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[17-Apr-2023 07:30:08 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '11'; public $nombre = 'Cita Revisión'; public $fecha = '2023-04-16'; public $hora = '22:00:00'; public $estado = 'D'; public $idConsultorio = '2'; public $consultorio = 'Consulto de Psicología'; public $precio = '46000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '1' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 07:49:44 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 07:49:44 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 07:49:44 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 07:49:44 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 07:49:44 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 07:49:44 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 07:49:44 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '18'; public $nombre = 'Cita de análisis'; public $fecha = '2023-04-24'; public $hora = '09:00:00'; public $estado = 'D'; public $idConsultorio = '1'; public $consultorio = 'Consultorio de Medicina General'; public $precio = '39000.00'; public $ubicacion = 'San José'; public $idUsuario = '8' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 07:53:37 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 07:53:37 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 07:53:37 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 07:53:37 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 07:53:37 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 07:53:37 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 07:53:37 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '19'; public $nombre = 'Cita Revisión'; public $fecha = '2023-04-24'; public $hora = '10:00:00'; public $estado = 'D'; public $idConsultorio = '2'; public $consultorio = 'Consulto de Psicología'; public $precio = '46000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '1' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 08:00:23 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 08:00:23 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 08:00:23 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 08:00:23 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 08:00:23 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 08:00:23 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 08:00:23 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '20'; public $nombre = 'Cita Correcta'; public $fecha = '2023-04-24'; public $hora = '11:00:00'; public $estado = 'D'; public $idConsultorio = '3'; public $consultorio = 'Consultorio de Oftamología'; public $precio = '35000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '1' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$idUsuario in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $idConsultorio = '2'; public $hora = '10:00'; public $fecha = '2023-04-25T06:00:00.000Z'; public $nombre = 'Cita 1'; public $cedula = '' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $idConsultorio = '2'; public $hora = '10:00'; public $fecha = '2023-04-25T06:00:00.000Z'; public $nombre = 'Cita 1'; public $cedula = '' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 08:06:02 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $idConsultorio = '2'; public $hora = '10:00'; public $fecha = '2023-04-25T06:00:00.000Z'; public $nombre = 'Cita 1'; public $cedula = '' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 08:08:14 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 08:08:14 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 08:08:14 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 08:08:14 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 08:08:14 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 08:08:14 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 08:08:14 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '21'; public $nombre = 'Prueba'; public $fecha = '2023-04-25'; public $hora = '09:00:00'; public $estado = 'D'; public $idConsultorio = '3'; public $consultorio = 'Consultorio de Oftamología'; public $precio = '35000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '8' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 08:12:10 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 08:12:10 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 08:12:10 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 08:12:10 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 08:12:10 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 08:12:10 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 08:12:10 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '22'; public $nombre = 'Cita 1'; public $fecha = '2023-04-25'; public $hora = '10:00:00'; public $estado = 'D'; public $idConsultorio = '2'; public $consultorio = 'Consulto de Psicología'; public $precio = '46000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '1' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 08:17:09 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 08:17:09 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 08:17:09 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 08:17:09 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 08:17:09 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 08:17:09 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 08:17:09 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '24'; public $nombre = 'kljlñjlkjkljlk'; public $fecha = '2023-04-25'; public $hora = '00:00:00'; public $estado = 'D'; public $idConsultorio = '2'; public $consultorio = 'Consulto de Psicología'; public $precio = '46000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '1' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 09:51:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 33
+[22-Apr-2023 09:51:16 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 09:51:16 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 09:51:16 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 09:51:16 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 09:51:16 Europe/Berlin] PHP   4. consultorio->getForm($id = '1') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[22-Apr-2023 09:51:16 Europe/Berlin] PHP   5. ConsultorioModels->getForm($id = '1') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:45
+[22-Apr-2023 09:51:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ConsultModels.php on line 33
+[22-Apr-2023 09:51:17 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 09:51:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 09:51:17 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 09:51:17 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 09:51:17 Europe/Berlin] PHP   4. consultorio->getForm($id = '1') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[22-Apr-2023 09:51:17 Europe/Berlin] PHP   5. ConsultorioModels->getForm($id = '1') C:\xampp\htdocs\ClinicaMia\controllers\ConsultControllers.php:45
+[22-Apr-2023 12:06:21 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 12:06:21 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:06:21 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:06:21 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:06:21 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:06:21 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 12:06:21 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '9'; public $nombre = 'Cita Catarata'; public $fecha = '2023-04-27'; public $hora = '10:00:00'; public $estado = 'D'; public $idConsultorio = '3'; public $consultorio = 'Consultorio de Oftmalogía'; public $precio = '30000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '3' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP   4. expediente->getForm($id = '7') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '7') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP   4. expediente->getForm($id = '7') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[22-Apr-2023 12:08:13 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '7') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[22-Apr-2023 12:13:02 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 12:13:02 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:13:02 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:13:02 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:13:02 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:13:02 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 12:13:02 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '11'; public $nombre = 'Cita Cirugía de Via Lagrimal'; public $fecha = '2023-04-27'; public $hora = '15:00:00'; public $estado = 'D'; public $idConsultorio = '3'; public $consultorio = 'Consultorio de Oftmalogía'; public $precio = '30000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '7' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 12:13:30 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 12:13:30 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:13:30 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:13:30 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:13:30 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:13:30 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 12:13:30 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '6'; public $nombre = 'Cita Estética Dental'; public $fecha = '2023-04-26'; public $hora = '11:00:00'; public $estado = 'D'; public $idConsultorio = '2'; public $consultorio = 'Consultorio de Odontología'; public $precio = '25000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '7' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 12:16:23 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 12:16:23 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:16:23 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:16:23 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:16:23 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:16:23 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 12:16:23 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '15'; public $nombre = 'Cita Control Pretanal'; public $fecha = '2023-04-28'; public $hora = '15:00:00'; public $estado = 'D'; public $idConsultorio = '4'; public $consultorio = 'Consultorio de Obstetricia'; public $precio = '45000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '9' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 12:17:52 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 12:17:52 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:17:52 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:17:52 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:17:52 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:17:52 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 12:17:52 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '10'; public $nombre = 'Cita Cirugía Refractiva'; public $fecha = '2023-04-27'; public $hora = '13:00:00'; public $estado = 'D'; public $idConsultorio = '3'; public $consultorio = 'Consultorio de Oftmalogía'; public $precio = '30000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '9' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 12:19:11 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[22-Apr-2023 12:19:11 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:19:11 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:19:11 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:19:11 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:19:11 Europe/Berlin] PHP   4. expediente->getForm($id = '9') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[22-Apr-2023 12:19:11 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '9') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[22-Apr-2023 12:19:12 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\ClinicaMia\models\ExpedienteModels.php on line 90
+[22-Apr-2023 12:19:12 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:19:12 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:19:12 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:19:12 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:19:12 Europe/Berlin] PHP   4. expediente->getForm($id = '9') C:\xampp\htdocs\ClinicaMia\routes\routes.php:71
+[22-Apr-2023 12:19:12 Europe/Berlin] PHP   5. ExpedienteModels->getForm($id = '9') C:\xampp\htdocs\ClinicaMia\controllers\ExpedienteControllers.php:47
+[22-Apr-2023 12:21:35 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 12:21:35 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:21:35 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:21:35 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:21:35 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:21:35 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 12:21:35 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '12'; public $nombre = 'Cita Implantes de Lente'; public $fecha = '2023-04-28'; public $hora = '11:00:00'; public $estado = 'D'; public $idConsultorio = '3'; public $consultorio = 'Consultorio de Oftmalogía'; public $precio = '30000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '8' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 12:52:48 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 12:52:48 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:52:48 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:52:48 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:52:48 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:52:48 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 12:52:48 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '1'; public $nombre = 'Cita de análisis'; public $fecha = '2023-04-26'; public $hora = '14:00:00'; public $estado = 'D'; public $idConsultorio = '1'; public $consultorio = 'Consultorio de Medicina General'; public $precio = '35000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '7' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 12:53:36 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 12:53:36 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:53:36 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:53:36 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:53:36 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:53:36 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 12:53:36 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '7'; public $nombre = 'Cita Odontología General'; public $fecha = '2023-04-26'; public $hora = '13:00:00'; public $estado = 'D'; public $idConsultorio = '2'; public $consultorio = 'Consultorio de Odontología'; public $precio = '25000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '3' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 12:54:10 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 12:54:10 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:54:10 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:54:10 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:54:10 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:54:10 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 12:54:10 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '2'; public $nombre = 'Cita Chequeo General'; public $fecha = '2023-04-26'; public $hora = '10:00:00'; public $estado = 'D'; public $idConsultorio = '1'; public $consultorio = 'Consultorio de Medicina General'; public $precio = '35000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '8' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 12:59:00 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 172
+[22-Apr-2023 12:59:00 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:59:00 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:59:00 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[22-Apr-2023 12:59:00 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[22-Apr-2023 12:59:00 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[22-Apr-2023 12:59:00 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '13'; public $nombre = 'Cita Ultrasonido'; public $fecha = '2023-04-28'; public $hora = '11:00:00'; public $estado = 'D'; public $idConsultorio = '4'; public $consultorio = 'Consultorio de Obstetricia'; public $precio = '45000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '7' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
+[22-Apr-2023 12:59:29 Europe/Berlin] PHP Notice:  require_once(): Read of 4096 bytes failed with errno=9 Bad file descriptor in C:\xampp\htdocs\ClinicaMia\index.php on line 42
+[22-Apr-2023 12:59:29 Europe/Berlin] PHP Stack trace:
+[22-Apr-2023 12:59:29 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[22-Apr-2023 12:59:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\ClinicaMia\controllers\MedicamentoControllers.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ClinicaMia\index.php:42
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ClinicaMia\index.php on line 42
+[23-Apr-2023 06:37:56 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$observacion in C:\xampp\htdocs\ClinicaMia\models\CitaModels.php on line 187
+[23-Apr-2023 06:37:56 Europe/Berlin] PHP Stack trace:
+[23-Apr-2023 06:37:56 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ClinicaMia\index.php:0
+[23-Apr-2023 06:37:56 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\ClinicaMia\index.php:48
+[23-Apr-2023 06:37:56 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\ClinicaMia\controllers\RoutesController.php:4
+[23-Apr-2023 06:37:56 Europe/Berlin] PHP   4. cita->createCU() C:\xampp\htdocs\ClinicaMia\routes\routes.php:54
+[23-Apr-2023 06:37:56 Europe/Berlin] PHP   5. CitaModels->createCU($objeto = class stdClass { public $id = '16'; public $nombre = 'Cita General de Oftamología'; public $fecha = '2023-04-29'; public $hora = '10:00:00'; public $estado = 'D'; public $idConsultorio = '3'; public $consultorio = 'Consultorio de Oftmalogía'; public $precio = '35000.00'; public $ubicacion = 'Alajuela'; public $idUsuario = '3' }) C:\xampp\htdocs\ClinicaMia\controllers\CitaControllers.php:114
